@@ -10,8 +10,7 @@ I am a pre-final year **B.Tech Computer Science** student at **UPES, Dehradun** 
 🏆 **AWS Certified** | Cloud & Security Enthusiast  
 💻 **Tech Stack:** C, C++, Python, Java, JavaScript, MERN Stack, AWS, SQL, Docker, GStreamer  
 🌱 **Currently exploring:** Kubernetes, AI-driven automation, and cloud security  
-🎯 **Seeking opportunities** in software engineering, cloud computing, and AI  
-🤝 **Founder, Graphic Solutions Firm** | Former Consultant at **180 Degrees Consulting**  
+🎯 **Seeking opportunities** in software engineering, cloud computing, and AI   
 
 ---
 
